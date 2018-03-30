@@ -11,6 +11,7 @@ BITHD 使用文档
    :caption: Contents:
 
 
-initialize/index
-update/index
-seedrecovery/index
+
+   initialize/index
+   update/index
+   seedrecovery/index
