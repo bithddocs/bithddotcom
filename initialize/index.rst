@@ -26,6 +26,7 @@
 2、根据设备号（手表任意按键按下2次，显示 BITHD 序列号信息），页面上选择您要连接的设备，进行配对。
 
 .. image:: ../img/3_2.jpg
+    :width: 250px
     :scale: 100%
     :align: center
 
@@ -42,6 +43,7 @@
 
    ​
 .. image:: ../img/3_3.jpg
+    :width: 500px
     :scale: 100%
     :align: center
 
@@ -54,6 +56,7 @@
 3､ PIN码设置好后，拿出你的种子卡，开始抄写你的种子！一定要认认真抄写您的 12 个种子密语。
 
 .. image:: ../img/3_4.jpg
+    :width: 250px
     :scale: 100%
     :align: center
 

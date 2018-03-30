@@ -16,6 +16,7 @@ BITHD钱包
 **保证您已经抄写好了12个种子密语，再进行以下操作。**先连接 BITHD，选择擦除设备，重新恢复账户即可。
 
 .. image:: ../img/4_1.jpg
+    :width: 250px
     :scale: 100%
     :align: center
 
