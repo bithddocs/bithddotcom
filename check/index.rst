@@ -10,7 +10,7 @@
 1、检验 比特护盾 BITHD，刮开图导，查询真伪。
 
 .. image:: ../img/1_1.jpg
-    :width: 500px
+    :width: 300px
     :scale: 100%
     :align: center
 
@@ -18,7 +18,7 @@
 2、打开比特派 - 设置 - BITHD 防伪码 - 选择二维码扫描（对准包装上的二维码进行扫描）。
 
 .. image:: ../img/1_2.jpg
-    :width: 500px
+    :width: 250px
     :scale: 100%
     :align: center
 
