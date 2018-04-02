@@ -11,7 +11,7 @@ BITHD 使用文档
    :caption: 目录:
 
 
-
+   check/index
    initialize/index
    update/index
    seedrecovery/index
