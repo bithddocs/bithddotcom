@@ -15,3 +15,4 @@ BITHD 使用文档
    initialize/index
    update/index
    seedrecovery/index
+   sendandreceive/index
