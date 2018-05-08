@@ -10,6 +10,7 @@
 
 .. image:: ../img/2_1.jpg
     :width: 500px
+    :height: 500px
     :scale: 100%
     :align: center
 
@@ -19,6 +20,7 @@
 
 .. image:: ../img/2_2.jpg
     :width: 500px
+    :height: 500px
     :scale: 100%
     :align: center
 
@@ -29,6 +31,7 @@
 
 .. image:: ../img/2_3.jpg
     :width: 500px
+    :height: 500px
     :scale: 100%
     :align: center
 
@@ -38,6 +41,7 @@
 
 .. image:: ../img/2_4.jpg
     :width: 500px
+    :height: 500px
     :scale: 100%
     :align: center
 
@@ -49,6 +53,7 @@
 
 .. image:: ../img/2_5.jpg
     :width: 250px
+    :height: 400px
     :scale: 100%
     :align: center
 

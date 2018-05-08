@@ -7,6 +7,7 @@
 你的 BITHD 包括一个OLED屏幕，2个按钮，支持USB2.0充电。
 
 .. image:: ../img/3_1.jpg
+    :height: 300px
     :scale: 100%
     :align: center
 
@@ -44,19 +45,21 @@
    ​
 .. image:: ../img/3_3.jpg
     :width: 500px
+    :height: 360px
     :scale: 100%
     :align: center
 
 
 以上标注的为 PIN 码输入规则，根据手表上显示的PIN码位置，在 bitpie APP 内对应位置输入。
 
-   ​
+
 
 
 3､ PIN码设置好后，拿出你的种子卡，开始抄写你的种子！一定要认认真抄写您的 12 个种子密语。
 
 .. image:: ../img/3_4.jpg
     :width: 250px
+    :height: 400px
     :scale: 100%
     :align: center
 

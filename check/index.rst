@@ -11,6 +11,7 @@
 
 .. image:: ../img/1_1.jpg
     :width: 300px
+    :height: 275px
     :scale: 100%
     :align: center
 
@@ -19,6 +20,7 @@
 
 .. image:: ../img/1_2.jpg
     :width: 250px
+    :height: 420px
     :scale: 100%
     :align: center
 
