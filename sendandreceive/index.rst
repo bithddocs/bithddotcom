@@ -50,7 +50,7 @@ BTC 发币
 
 
 .. image:: ../img/bithdsend5.jpg
-    :width: 250px
+    :width: 320px
     :height: 390px
     :scale: 100%
     :align: center
@@ -60,7 +60,7 @@ BTC 发币
 (Confirm 确认，Cancel取消)
 
 .. image:: ../img/bithdsend6.jpg
-    :width: 250px
+    :width: 320px
     :height: 390px
     :scale: 100%
     :align: center
@@ -69,7 +69,7 @@ BTC 发币
 （Confirm sending 0.00456 BTC to 15ShVH8kH19bmmrx1Y53cjyrGwsp893GEk）
 
 .. image:: ../img/bithdsend8.jpg
-    :width: 250px
+    :width: 320px
     :height: 390px
     :scale: 100%
     :align: center
