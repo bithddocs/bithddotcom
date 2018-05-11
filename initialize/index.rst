@@ -46,7 +46,7 @@
    ​
 .. image:: ../img/3_3.jpg
     :width: 250px
-    :height: 420px
+    :height: 320px
     :scale: 100%
     :align: center
 

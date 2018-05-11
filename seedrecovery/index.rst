@@ -51,7 +51,7 @@ BITHD 种子恢复
 
 .. image:: ../img/bithd_seeds.jpg
     :width: 250px
-    :height: 420px
+    :height: 320px
     :scale: 100%
     :align: center
 
@@ -61,7 +61,7 @@ Please enter the 4nd word of your mnemonic（请输入您抄写种子的第四�
 
 .. image:: ../img/bithd_words.jpg
     :width: 250px
-    :height: 420px
+    :height: 320px
     :scale: 100%
     :align: center
 
