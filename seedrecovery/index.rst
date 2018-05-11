@@ -56,7 +56,7 @@ BITHD 种子恢复
     :align: center
 
 
-Please enter the 4nd word of your mnemonic（请输入您抄写种子的第四个助记词）；
+Please enter the 4th word of your mnemonic（请输入您抄写种子的第四个助记词）；
 
 
 .. image:: ../img/bithd_words.jpg
