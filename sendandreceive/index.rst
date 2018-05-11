@@ -51,7 +51,7 @@ BTC 发币
 
 .. image:: ../img/bithdsend5.jpg
     :width: 250px
-    :height: 420px
+    :height: 390px
     :scale: 100%
     :align: center
 
@@ -61,7 +61,7 @@ BTC 发币
 
 .. image:: ../img/bithdsend6.jpg
     :width: 250px
-    :height: 420px
+    :height: 390px
     :scale: 100%
     :align: center
 
@@ -70,7 +70,7 @@ BTC 发币
 
 .. image:: ../img/bithdsend8.jpg
     :width: 250px
-    :height: 420px
+    :height: 390px
     :scale: 100%
     :align: center
 
