@@ -58,7 +58,7 @@
 3､ PIN码设置好后，拿出你的种子卡，开始抄写你的种子！一定要认认真抄写您的 12 个种子密语。
 
 .. image:: ../img/3_4.jpg
-     :width: 60%
+    :width: 60%
     :height: 60%
     :scale: 100%
     :align: center
