@@ -9,8 +9,7 @@
 1、在手机电量高于50%时进行固件升级，避免在升级过程中手机电量过低，造成升级中断。
 
 .. image:: ../img/2_1.jpg
-    :width: 500px
-    :height: 500px
+    :width: 60%
     :scale: 100%
     :align: center
 
@@ -19,8 +18,7 @@
 2、固件升级可能会造成数据丢失，一定要确保您已经备份好了您的种子！
 
 .. image:: ../img/2_2.jpg
-    :width: 500px
-    :height: 500px
+    :width: 60%
     :scale: 100%
     :align: center
 
@@ -30,8 +28,7 @@
    - 不要断开蓝牙连接
 
 .. image:: ../img/2_3.jpg
-    :width: 500px
-    :height: 500px
+    :width: 60%
     :scale: 100%
     :align: center
 
@@ -40,8 +37,7 @@
 4. 为避免升级过程失败，请一定按照提示进行操作
 
 .. image:: ../img/2_4.jpg
-    :width: 500px
-    :height: 500px
+    :width: 60%
     :scale: 100%
     :align: center
 
@@ -52,8 +48,7 @@
 
 
 .. image:: ../img/2_5.jpg
-    :width: 250px
-    :height: 400px
+    :width: 60%
     :scale: 100%
     :align: center
 
