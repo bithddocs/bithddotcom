@@ -47,19 +47,25 @@ BITHD 种子恢复
 
 提示类似于以下两条语句：
 
+
+
 .. image:: ../img/bithd_seeds.jpg
     :width: 80%
     :height: 80%
     :scale: 100%
     :align: center
 
+
 Please enter the 4nd word of your mnemonic（请输入您抄写种子的第四个助记词）；
+
 
 .. image:: ../img/bithd_words.jpg
     :width: 80%
     :height: 80%
     :scale: 100%
     :align: center
+
+
 
 Please enter the word viotory on your mobile phone （将viotory输入到手机输入框）；
 
