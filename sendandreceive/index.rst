@@ -25,21 +25,24 @@ BTC 发币
 在 BITHD 钱包首页选择 BTC - 选择发币 - 输入正确的 BTC 收币地址(本次收币12w8ZUtMWn168ysz788K62vyauMoXXNsgt)、输入 BTC 金额（本次发0.01）
 
 .. image:: ../img/bithdsend2.jpg
-    :width: 500px
+    :width: 320px
+    :height: 520px
     :scale: 100%
     :align: center
 
 点击确认发送。
 
 .. image:: ../img/bithdsend3.jpg
-    :width: 500px
+    :width: 320px
+    :height: 520px
     :scale: 100%
     :align: center
 
 显示具体的矿工费、发送地址、金额信息。选择确定。
 
 .. image:: ../img/bithdsend4.jpg
-    :width: 500px
+    :width: 320px
+    :height: 520px
     :scale: 100%
     :align: center
 
@@ -47,7 +50,8 @@ BTC 发币
 
 
 .. image:: ../img/bithdsend5.jpg
-    :width: 500px
+    :width: 320px
+    :height: 520px
     :scale: 100%
     :align: center
 
@@ -56,7 +60,8 @@ BTC 发币
 (Confirm 确认，Cancel取消)
 
 .. image:: ../img/bithdsend6.jpg
-    :width: 500px
+    :width: 320px
+    :height: 520px
     :scale: 100%
     :align: center
 
@@ -64,7 +69,8 @@ BTC 发币
 （Confirm sending 0.00456 BTC to 15ShVH8kH19bmmrx1Y53cjyrGwsp893GEk）
 
 .. image:: ../img/bithdsend8.jpg
-    :width: 500px
+    :width: 320px
+    :height: 520px
     :scale: 100%
     :align: center
 
