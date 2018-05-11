@@ -41,9 +41,27 @@ BITHD 种子恢复
 
 3､ 进入 "欢迎来到 BITHD "页面中为 BITHD 命名。
 
-4、开始进行恢复种子，首先设置 PIN 码。手机键盘上的点位对应 BITHD 屏上的数字，输入完之后再点确认。进入确入 请确认 PIN 码页面，再次输入上一次的 PIN 码。
+4、开始进行恢复种子，首先设置 PIN 码。手机键盘上的点位对应 BITHD 屏上的数字，输入完之后再点确认。进入 请确认 PIN 码页面，再次输入上一次的 PIN 码。
 
-5、进入"请按照设备上的提示输入您的种子密语"页入。输入 BITHD 设备 提示的的单词。提示内容类似于这两条语句 Please enter the 2nd word of your mnemonic（请输入您抄写种子的第二个助记词）；Please enter the word expect on your mobile phone （将expect输入到手机输入框）；总共需要您输入24次，12个密语和12个干扰单词。
+5、进入"请按照设备上的提示输入您的种子密语"页入。输入 BITHD 设备 提示的的单词。总共需要您输入24次，12个密语和12个干扰单词。
+
+提示类似于以下两条语句：
+
+.. image:: ../img/bithd_seeds.jpg
+    :width: 80%
+    :height: 80%
+    :scale: 100%
+    :align: center
+
+Please enter the 4nd word of your mnemonic（请输入您抄写种子的第四个助记词）；
+
+.. image:: ../img/bithd_words.jpg
+    :width: 80%
+    :height: 80%
+    :scale: 100%
+    :align: center
+
+Please enter the word viotory on your mobile phone （将viotory输入到手机输入框）；
 
 
 备注：比特护盾在恢复过程中不要停顿，请根据提示输入。
