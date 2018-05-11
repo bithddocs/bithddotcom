@@ -10,6 +10,7 @@
 
 .. image:: ../img/2_1.jpg
     :width: 60%
+    :height: 60%
     :scale: 100%
     :align: center
 
@@ -19,6 +20,7 @@
 
 .. image:: ../img/2_2.jpg
     :width: 60%
+    :height: 60%
     :scale: 100%
     :align: center
 
@@ -29,6 +31,7 @@
 
 .. image:: ../img/2_3.jpg
     :width: 60%
+    :height: 60%
     :scale: 100%
     :align: center
 
@@ -38,9 +41,9 @@
 
 .. image:: ../img/2_4.jpg
     :width: 60%
+    :height: 60%
     :scale: 100%
     :align: center
-
 
 
 固件升级失败怎么办，认真阅读下面操作秘技。
@@ -49,6 +52,7 @@
 
 .. image:: ../img/2_5.jpg
     :width: 60%
+    :height: 60%
     :scale: 100%
     :align: center
 
