@@ -71,3 +71,51 @@ Please enter the word viotory on your mobile phone （将viotory输入到手机�
 
 
 备注：比特护盾在恢复过程中不要停顿，请根据提示输入。
+
+
+
+
+
+BITHD 验证种子
+------------------------------
+
+1、通过 Bitpie APP 连接比特护盾(BITHD)。
+
+
+2、我的 - BITHD 设置 - 验证种子（验证种子的过程中不要停顿，请根据比特护盾上的提示进行输入，总共需要您输入24次，12个密语和12个干扰单词）。
+
+
+3、输入 PIN 码。
+
+
+4、在种子验证界面过程中比特护盾手表中会提示以下语句
+
+
+.. image:: ../img/bithd_seeds.jpg
+    :width: 250px
+    :height: 320px
+    :scale: 100%
+    :align: center
+
+Please enter the 4th word of your mnemonic（请输入您抄写种子的第四个助记词）；
+
+
+.. image:: ../img/bithd_words.jpg
+    :width: 250px
+    :height: 320px
+    :scale: 100%
+    :align: center
+
+
+Please enter the word viotory on your mobile phone （将viotory输入到手机输入框）；
+
+
+
+5、输入完之后，APP 会提示您 "正在验证种子密语，请根据设备上的提示进行操作.."。在比特护盾上按一下确认键即可。
+
+
+.. image:: ../img/seedvalidation.jpg
+    :width: 250px
+    :height: 420px
+    :scale: 100%
+    :align: center

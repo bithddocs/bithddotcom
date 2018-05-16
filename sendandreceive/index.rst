@@ -1,13 +1,9 @@
 发币收币
 ============================================
 
-比特护盾现支持BTC、ETH、ETH下ERC20所有代币。下面以 BTC 收币、发币为例，切换到 BITHD 账户下的 BTC 页面。
+目前比特护盾 BITHD 支持 BTC、BCH、ETH、ETH/Token(ERC20、LTC、DASH、ZEC、DOGE。下面以 BTC 收币、发币为例，切换到 BITHD 账户下的 BTC 页面。
 
-.. image:: ../img/bithdsend1.jpg
-    :width: 250px
-    :height: 300px
-    :scale: 100%
-    :align: center
+
 
 注：在进行收币前请确保您是否抄写好种子密语。
 
