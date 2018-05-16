@@ -5,7 +5,7 @@
 支持币种
 ---------------
 
-目前比特护盾 BITHD 支持 BTC、BCH、ETH、ETH/Token(ERC20、LTC、DASH、ZEC、DOGE
+目前比特护盾 BITHD 支持 BTC、BCH、ETH、ETH/Token(ERC20)、LTC、DASH、ZEC、DOGE
 
 
 
