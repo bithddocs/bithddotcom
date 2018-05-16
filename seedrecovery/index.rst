@@ -116,6 +116,6 @@ Please enter the word viotory on your mobile phone （将viotory输入到手机�
 
 .. image:: ../img/seedvalidation.jpg
     :width: 250px
-    :height: 420px
+    :height: 500px
     :scale: 100%
     :align: center
