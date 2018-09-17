@@ -16,3 +16,4 @@ BITHD 使用文档
    update/index
    seedrecovery/index
    sendandreceive/index
+   multiplesignature/index
