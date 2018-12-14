@@ -23,7 +23,7 @@ msgstr "BITHD Multi-Signature"
 
 #: ../../bithd/multiplesignature.rst:4
 msgid "目前支持币种：BTC、ETH"
-msgstr "Supported cryptocurrencies: BTC, ETH"
+msgstr "Current supporting coins: BTC, ETH"
 
 #: ../../bithd/multiplesignature.rst:6
 msgid "说明：比特派的版本号大于 3.7.8，具体多人管理资产的功能，在发币时是需要多重签名操作的。"
