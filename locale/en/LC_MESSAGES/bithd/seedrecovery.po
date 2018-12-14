@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, BITHD
+# This file is distributed under the same license as the BITHD package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BITHD 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 16:23+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../bithd/seedrecovery.rst:2
+msgid "如果我的 BITHD，PIN码或者种子丢失了怎么办？"
+msgstr "What if my BITHD, PIN or seed phrases got lost?"
+
+#: ../../bithd/seedrecovery.rst:6
+msgid "BITHD钱包"
+msgstr ""
+
+#: ../../bithd/seedrecovery.rst:8
+msgid ""
+"如果您的 BITHD 钱包丢失，被盗或者坏掉了，您随时可以在另一个**BITHD "
+"钱包或任何兼容BIP39规范的钱包中恢复**，**前提是您一定抄写好了您的 12 个种子密语**。"
+msgstr "If your BITHD wallet got lost, stolen or broken, you can always restore it in another BITHD wallet or in any BIP39 compatible wallet, but you must ensure that you have correctly backed up the 12 seed phrases."
+
+#: ../../bithd/seedrecovery.rst:10
+msgid "12 个种子密语特别重要，他们决定着您是数字货币的所有者。永远不要泄露、永远不要遗失。"
+msgstr "The 12 seed phrases are extremely important and they determine if you are the owner of the digital assets. So do never reveal or loss them. "
+
+#: ../../bithd/seedrecovery.rst:14
+msgid "如果您PIN码忘记了"
+msgstr "If you forget your PIN Code"
+
+#: ../../bithd/seedrecovery.rst:16
+msgid "**保证您已经抄写好了12个种子密语，再进行以下操作。**先连接 BITHD，选择擦除设备，重新恢复账户即可。"
+msgstr "Make sure you have backed up the 12 seed phrases first before following the next steps. Connect BITHD first, select erase the device, and restore the account."
+
+#: ../../bithd/seedrecovery.rst:27
+msgid "如果你的种子卡丢失了"
+msgstr "If you lose your seed phrases"
+
+#: ../../bithd/seedrecovery.rst:29
+msgid "您抄写种子的种子卡非常重要，您必须要将其放在非常安全的位置，妥善保管！"
+msgstr "The seed phrases card where you wrote the 12 seed phrases is extremely important. Make sure you keep it in safe place. "
+
+#: ../../bithd/seedrecovery.rst:31
+msgid "如果您丢失了种子卡，则需要立即将您的全部余额转移到临时钱包。然后用 BITHD 创建一个新的种子。完成后，将余额转回到您的账户钱包。"
+msgstr "If you lose your seed card, you will need to transfer immediately all your assets to a temporary wallet. Then using BITHD, create a new set of seed phrases. After that, transfer your assets back to your account wallet."
+
+#: ../../bithd/seedrecovery.rst:36
+msgid "BITHD 种子恢复"
+msgstr "BITHD seed phrases recovery"
+
+#: ../../bithd/seedrecovery.rst:38
+msgid "1、打开比特派App 或者 BITHD App 。账号管理 - 找到您的 BITHD 设备。"
+msgstr "1.Open Bitpie App or BITHD App. Account Management - Find your BITHD device."
+
+#: ../../bithd/seedrecovery.rst:40
+msgid "2、在密语页面中，选择 \"我有种子，直接恢复\"。"
+msgstr "2.On the password page, select “I have seeds, restore directly”."
+
+#: ../../bithd/seedrecovery.rst:42
+msgid "3､ 进入 \"欢迎来到 BITHD \"页面中为 BITHD 命名。"
+msgstr "3.Go to the “Welcome to BITHD” page to name the BITHD."
+
+#: ../../bithd/seedrecovery.rst:44
+msgid ""
+"4、开始进行恢复种子，首先设置 PIN 码。手机键盘上的点位对应 BITHD 屏上的数字，输入完之后再点确认。进入 请确认 PIN "
+"码页面，再次输入上一次的 PIN 码。"
+msgstr "4.Begin the recovery of the seed, first set the PIN code. The numbers shown in the BITHD must be entered in the corresponding location that shows in the watch, after entering all the numbers, click OK. Go to PIN confirmation page and re-enter the PIN Code."
+
+#: ../../bithd/seedrecovery.rst:46
+msgid "5、进入\"请按照设备上的提示输入您的种子密语\"页入。输入 BITHD 设备 提示的的单词。总共需要您输入24次，12个密语和12个干扰单词。"
+msgstr "5.Go to the \"Please enter your seed phrases as indicated on the device\" page. Enter the phrase that the BITHD device indicates, it has a total of 24 entries, 12 correct phrases and 12 disturbing phrases."
+
+#: ../../bithd/seedrecovery.rst:48
+msgid "提示类似于以下两条语句："
+msgstr "The indications are similar to the following two statements:"
+
+#: ../../bithd/seedrecovery.rst:59 ../../bithd/seedrecovery.rst:100
+msgid "Please enter the 4th word of your mnemonic（请输入您抄写种子的第四个助记词）；"
+msgstr "Please enter the 4th word of your mnemonic:"
+
+#: ../../bithd/seedrecovery.rst:70 ../../bithd/seedrecovery.rst:110
+msgid "Please enter the word viotory on your mobile phone （将viotory输入到手机输入框）；"
+msgstr "Please enter the word viotory on your mobile phone "
+
+#: ../../bithd/seedrecovery.rst:73
+msgid "备注：比特护盾在恢复过程中不要停顿，请根据提示输入。"
+msgstr "Note: Do not interrupt during the BITHD recovery process, please enter seed phrases under the indications."
+
+#: ../../bithd/seedrecovery.rst:80
+msgid "BITHD 验证种子"
+msgstr "BITHD seed phrases verification"
+
+#: ../../bithd/seedrecovery.rst:82
+msgid "1、通过 Bitpie APP 连接比特护盾(BITHD)。"
+msgstr "1.Connect BITHD with Bitpie App."
+
+#: ../../bithd/seedrecovery.rst:85
+msgid ""
+"2、我的 - BITHD 设置 - "
+"验证种子（验证种子的过程中不要停顿，请根据比特护盾上的提示进行输入，总共需要您输入24次，12个密语和12个干扰单词）。"
+msgstr "2.Me – BITHD Setting – Seed verification (Do not interrupt seed verification process, please enter according to BITHD indications, there will be a total of 24 entries, 12 correct phrases and 12 disturbing phrases)."
+
+#: ../../bithd/seedrecovery.rst:88
+msgid "3、输入 PIN 码。"
+msgstr "3.Enter PIN Code."
+
+#: ../../bithd/seedrecovery.rst:91
+msgid "4、在种子验证界面过程中比特护盾手表中会提示以下语句"
+msgstr "4.The following statement will be shown in the BITHD watch during the seed verification interface."
+
+#: ../../bithd/seedrecovery.rst:114
+msgid "5、输入完之后，APP 会提示您 \"正在验证种子密语，请根据设备上的提示进行操作..\"。在比特护盾上按一下确认键即可。"
+msgstr "5. After entering all of them, the app will indicate you \"Verifying the seed phrases, operate according indications on the BITHD\". Press the confirmation button (lower button) on the BITHD."
+

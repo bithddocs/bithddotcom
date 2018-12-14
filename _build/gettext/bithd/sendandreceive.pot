@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, BITHD
+# This file is distributed under the same license as the BITHD package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BITHD 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 16:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../bithd/sendandreceive.rst:2
+msgid "发币收币"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:5
+msgid "以 BTC 收币、发币为例，切换到 BITHD 账户下的 BTC 页面。"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:7
+msgid "注：在进行收币前请确保您是否抄写好种子密语。"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:11
+msgid "BTC 收币"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:13
+msgid "在 BITHD 钱包首页选择 BTC - 选择收币 - 进入我的 BTC 地址。"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:18
+msgid "BTC 发币"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:20
+msgid "在 BITHD 钱包首页选择 BTC - 选择发币 - 输入正确的 BTC 收币地址(本次收币12w8ZUtMWn168ysz788K62vyauMoXXNsgt)、输入 BTC 金额（本次发0.01）"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:28
+msgid "点击确认发送。"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:36
+msgid "显示具体的矿工费、发送地址、金额信息。选择确定。"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:44
+msgid "输入当前的 PIN 码信息。"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:53
+msgid "第一次确认是将 0.01 BTC 发送到 12w8ZUtMWn168ysz788K62vyauMoXXNsgt (Confirm sending 0.01 BTC to 12w8ZUtMWn168ysz788K62vyauMoXXNsgt) (Confirm 确认，Cancel取消)"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:63
+msgid "第二次确认是将 0.00456 BTC 发送到您的找零地址 15ShVH8kH19bmmrx1Y53cjyrGwsp893GEk （Confirm sending 0.00456 BTC to 15ShVH8kH19bmmrx1Y53cjyrGwsp893GEk）"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:72
+msgid "第三次确认 发送这笔交易需要矿工费 0.00022 BTC。 (Really send 0.01478 BTC from your wallet? Fee included:0.00022 BTC) 确认好之后这笔交易就完成了。"
+msgstr ""
+
+#: ../../bithd/sendandreceive.rst:77
+msgid "备注：以上收币地址请填写正确的收币地址。"
+msgstr ""
+

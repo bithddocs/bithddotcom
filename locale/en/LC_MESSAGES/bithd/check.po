@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, BITHD
+# This file is distributed under the same license as the BITHD package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BITHD 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 16:23+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../bithd/check.rst:2
+msgid "比特护盾防伪码"
+msgstr "BITHD Authenticity mark"
+
+#: ../../bithd/check.rst:4
+msgid "为了防止您拿到假冒伪劣商品或二手比特护盾(BITHD) ，保护您的资产安全，比特派提供防伪码检验功能。"
+msgstr "To prevent you from getting fake goods or second-hand BITHD and protect your assets in a safe environment, Bitpie provides security verification."
+
+#: ../../bithd/check.rst:7
+msgid "请先进行检验，然后再使用比特护盾 (BITHD)。"
+msgstr "Please check your BITHD before using it."
+
+#: ../../bithd/check.rst:10
+msgid "1、检验 比特护盾 BITHD，刮开图导，查询真伪。"
+msgstr "1.Check the BITHD, scratch the protective layer and check the authenticity."
+
+#: ../../bithd/check.rst:19
+msgid "2、打开比特派 - 设置 - BITHD 防伪码 - 选择二维码扫描（对准包装上的二维码进行扫描）。"
+msgstr "2.Open Bitpie App - Settings - BITHD Security Code - Select Scan QR Code (scan targeting the QR Code on the package)."
+

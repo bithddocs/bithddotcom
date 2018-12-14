@@ -65,6 +65,9 @@ release = u'3.5.5'
 # Usually you set "language" from the command line for these cases.
 
 language = 'zh_CN'
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False
+
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.

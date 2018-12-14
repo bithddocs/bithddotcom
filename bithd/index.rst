@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-使用文档
+BITHD 使用文档
 =================================
 
 .. toctree::
@@ -11,4 +11,9 @@
    :caption: 目录:
 
 
-   bithd/index
+   check.rst
+   initialize.rst
+   update.rst
+   seedrecovery.rst
+   sendandreceive.rst
+   multiplesignature.rst

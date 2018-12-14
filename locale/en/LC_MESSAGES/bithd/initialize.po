@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, BITHD
+# This file is distributed under the same license as the BITHD package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BITHD 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 16:34+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../bithd/initialize.rst:2
+msgid "如何开始使用我的 BITHD"
+msgstr "How to get started with my BITHD"
+
+#: ../../bithd/initialize.rst:6
+msgid "支持币种"
+msgstr "Supported cryptocurrencies"
+
+#: ../../bithd/initialize.rst:8
+msgid ""
+"目前比特护盾 BITHD 支持 "
+"BTC、BCHABC、BCHSV、EOS、ETH、ETH/Token(ERC20)、LTC、DASH、ZEC、DOGE"
+msgstr "At the moment BITHD supports BTC, BCHABC, BCHSV, EOS, ETH, ETH/Token (ERC20), LTC, DASH, ZEC, DOGE, etc."
+
+#: ../../bithd/initialize.rst:13
+msgid "外观"
+msgstr "Exterior appearance"
+
+#: ../../bithd/initialize.rst:15
+msgid "你的 BITHD 包括一个OLED屏幕，2个按钮，支持USB2.0充电。"
+msgstr "Your BITHD includes an OLED screen, two buttons and supports USB 2.0 charging."
+
+#: ../../bithd/initialize.rst:23
+msgid "​2个按钮用于用户指导："
+msgstr "Two buttons for user guidance"
+
+#: ../../bithd/initialize.rst:25
+msgid "下面按键为“确认”键，上面按键为“取消“键"
+msgstr "The lower button is for \"confirm\", and the upper button is for \"cancel\""
+
+#: ../../bithd/initialize.rst:27
+msgid "如您所见，手表没有任何电源按键。任意按键按下1次，显示账户余额；按键按下2次，显示 BITHD 序列号信息；按键按下3次，即显示主屏幕时间信息。"
+msgstr "As you can see, the watch does not have any power button. Pressing any button once the screen will display the account balance; pressing the button twice it will display the BITHD serial number information; pressing the button three times it will display the  time information."
+
+#: ../../bithd/initialize.rst:31
+msgid "连接您的设备"
+msgstr "Connect your device"
+
+#: ../../bithd/initialize.rst:33
+msgid "1、保证您的  **bitpie 版本在v3.0.7 以上**。在 bitpie 我 — 账号管理页面。"
+msgstr "1.Make sure your Bitpie App version is above v3.0.7. Inside Bitpie App go to “Me” and to Account Management page."
+
+#: ../../bithd/initialize.rst:35
+msgid "2、根据设备号（手表任意按键按下2次，显示 BITHD 序列号信息），页面上选择您要连接的设备，进行配对。"
+msgstr "2.According to the device number (pressing any button on the watch twice, the screen will display the BITHD serial number information), select the device you want to connect and pair it."
+
+#: ../../bithd/initialize.rst:43
+msgid "3、BITHD 端会有配对码显示，在 bitpie 端输入进行配对，配对成功后开始初始化设备，接下来就可以创建 BITHD 账户了。"
+msgstr "3.Pairing code will be displayed on the BITHD, afterwards input this code in Bitpie App. When the pairing process is completed, the device will begin to be initialized. At that moment, you can create a BITHD account."
+
+#: ../../bithd/initialize.rst:47
+msgid "创建我的 BITHD 账号"
+msgstr "Create my BITHD account"
+
+#: ../../bithd/initialize.rst:49
+msgid "1、首次进入钱包给新钱包命名（设备标签）。"
+msgstr "1.The first time you enter the new wallet you will have to name it (device tag)."
+
+#: ../../bithd/initialize.rst:52
+msgid ""
+"2、名字输入完成后，设置钱包的 6-8位 PIN 码，**bitpie 九宫格输入对应 BITHD "
+"钱包显示的数字**，需要签名相关操作就需要输入PIN码。"
+msgstr "2.After entering the name, set a 6-8 digits PIN Code. Enter the nine numbers that appears in the BITHD in the App. You will need to enter the PIN code for any operation with the required signature."
+
+#: ../../bithd/initialize.rst:54
+msgid "​"
+msgstr ""
+
+#: ../../bithd/initialize.rst:62
+msgid "以上标注的为 PIN 码输入规则，根据手表上显示的PIN码位置，在 bitpie APP 内对应位置输入。"
+msgstr "In the image above we show you the PIN code entering rule, numbers must be entered in the corresponding location that shows in the Watch."
+
+#: ../../bithd/initialize.rst:67
+msgid "3､ PIN码设置好后，拿出你的种子卡，开始抄写你的种子！一定要认认真抄写您的 12 个种子密语。"
+msgstr "3.After setting the PIN code, take out your seed card and start copying your seeds! Be sure to copy carefully your 12 seed phrases."
+
+#: ../../bithd/initialize.rst:76
+msgid "4、BITHD 账号创建完成，您可以在比特派应用内自由切换您的BITHD和 bitpie 账号啦。"
+msgstr "4.Once the BITHD account is created, you can freely switch between your BITHD and Bitpie accounts in the Bitpie App."
+
+#~ msgid "目前比特护盾 BITHD 支持 BTC、BCH、ETH、ETH/Token(ERC20)、LTC、DASH、ZEC、DOGE"
+#~ msgstr ""
+#~ "At the moment BITHD supports BTC, "
+#~ "BCH, ETH, ETH/Token (ERC20), LTC, DASH,"
+#~ " ZEC, DOGE, etc."
+
+#~ msgid "目前比特护盾 BITHD 支持 BTC、BCHABC、BCHSV、ETH、ETH/Token(ERC20)、LTC、DASH、ZEC、DOGE"
+#~ msgstr ""
+
