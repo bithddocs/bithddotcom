@@ -23,7 +23,7 @@ msgstr "What if my BITHD, PIN or seed phrases got lost?"
 
 #: ../../bithd/seedrecovery.rst:6
 msgid "BITHD钱包"
-msgstr ""
+msgstr "BITHD Wallet"
 
 #: ../../bithd/seedrecovery.rst:8
 msgid ""
