@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BITHD 3.2.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-14 16:23+0800\n"
+"POT-Creation-Date: 2018-12-20 16:58+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,12 +22,15 @@ msgid "BITHD 多重签名"
 msgstr "BITHD Multi-Signature"
 
 #: ../../bithd/multiplesignature.rst:4
-msgid "目前支持币种：BTC、ETH"
-msgstr "Current supporting coins: BTC, ETH"
+msgid "目前支持币种：BTC、ETH、EOS"
+msgstr "Current supporting coins: BTC, ETH, EOS"
 
 #: ../../bithd/multiplesignature.rst:6
 msgid "说明：比特派的版本号大于 3.7.8，具体多人管理资产的功能，在发币时是需要多重签名操作的。"
-msgstr "Explanation: You must have Bitpie App version above 3.7.8, multiple people assets management function, in the sending process multi signature operation is needed."
+msgstr ""
+"Explanation: You must have Bitpie App version above 3.7.8, multiple "
+"people assets management function, in the sending process multi signature"
+" operation is needed."
 
 #: ../../bithd/multiplesignature.rst:11
 msgid "创建多重签名账号"
@@ -39,11 +42,17 @@ msgstr "The inviter’s instructions:"
 
 #: ../../bithd/multiplesignature.rst:15
 msgid "1、切换到 BITHD 账户，选择 BITHD 多重签名，右上角 \"+\" 号，在创建多重签名页面，选择适合自己的图标以及标题。"
-msgstr "1.Switch to the BITHD account, select BITHD Multi-Signature, and select the “+” sign in the upper right corner. In the “Create Multi-Signature” page, choose an icon and title that suits you."
+msgstr ""
+"1.Switch to the BITHD account, select BITHD Multi-Signature, and select "
+"the “+” sign in the upper right corner. In the “Create Multi-Signature” "
+"page, choose an icon and title that suits you."
 
 #: ../../bithd/multiplesignature.rst:39
 msgid "2、邀请新成员，输入需要多重签名的 UID，此 UID 必须是 BITHD 的 UID(在我的菜单，头像一栏可查看)，点击邀请加入，选择下一步。"
-msgstr "2.Invite new members, enter the UID that requires multiple signatures. This UID must be the UID of BITHD (in me-avatar, you can see it), click “Joining by invitation” and then click Next."
+msgstr ""
+"2.Invite new members, enter the UID that requires multiple signatures. "
+"This UID must be the UID of BITHD (in me-avatar, you can see it), click "
+"“Joining by invitation” and then click Next."
 
 #: ../../bithd/multiplesignature.rst:48
 msgid "3、确认签名数量，选择确认。"
@@ -59,7 +68,9 @@ msgstr "5.Enter BITHD PIN Code."
 
 #: ../../bithd/multiplesignature.rst:67
 msgid "6、创建多重签名手表确认。手表确认之后就会提示创建成功。"
-msgstr "6.Create a multi-signature watch confirmation. After the confirmation in the watch, it will show that the creation is completed."
+msgstr ""
+"6.Create a multi-signature watch confirmation. After the confirmation in "
+"the watch, it will show that the creation is completed."
 
 #: ../../bithd/multiplesignature.rst:77
 msgid "被邀请方操作："
@@ -67,7 +78,10 @@ msgstr "The Invitees instruction: "
 
 #: ../../bithd/multiplesignature.rst:79
 msgid "1、切换到邀请的账号下，选择查看最新记录。就会有对应的多重签名信息，进入加入多重签名页面。"
-msgstr "1.Switch to the invitee’s account and select check the latest records. The corresponding multi-signature information will appear, go to “join multi-signature” page."
+msgstr ""
+"1.Switch to the invitee’s account and select check the latest records. "
+"The corresponding multi-signature information will appear, go to “join "
+"multi-signature” page."
 
 #: ../../bithd/multiplesignature.rst:101
 msgid "2、输入 BITHD PIN 码。"
@@ -76,4 +90,7 @@ msgstr "2.Enter BITHD PIN Code."
 #: ../../bithd/multiplesignature.rst:103
 msgid "3、BITHD 手表确认。"
 msgstr "3.Confirm on BITHD wallet."
+
+#~ msgid "目前支持币种：BTC、ETH"
+#~ msgstr "Current supporting coins: BTC, ETH"
 

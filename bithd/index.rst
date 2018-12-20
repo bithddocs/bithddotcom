@@ -7,7 +7,7 @@ BITHD 使用文档
 =================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: 目录:
 
 
@@ -17,3 +17,4 @@ BITHD 使用文档
    seedrecovery.rst
    sendandreceive.rst
    multiplesignature.rst
+   eosmultisignature.rst

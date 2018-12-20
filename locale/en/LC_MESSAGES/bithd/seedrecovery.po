@@ -121,5 +121,5 @@ msgstr "4.The following statement will be shown in the BITHD watch during the se
 
 #: ../../bithd/seedrecovery.rst:114
 msgid "5、输入完之后，APP 会提示您 \"正在验证种子密语，请根据设备上的提示进行操作..\"。在比特护盾上按一下确认键即可。"
-msgstr "5. After entering all of them, the app will indicate you \"Verifying the seed phrases, operate according indications on the BITHD\". Press the confirmation button (lower button) on the BITHD."
+msgstr "5.After entering all of them, the app will indicate you \"Verifying the seed phrases, operate according indications on the BITHD\". Press the confirmation button (lower button) on the BITHD."
 

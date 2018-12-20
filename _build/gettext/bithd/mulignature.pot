@@ -16,11 +16,3 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../index.rst:7
-msgid "使用文档"
-msgstr ""
-
-#: ../../index.rst:9
-msgid "目录:"
-msgstr ""
-
