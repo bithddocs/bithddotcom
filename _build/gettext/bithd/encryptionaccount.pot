@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, BITHD
+# This file is distributed under the same license as the BITHD package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BITHD 3.8.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-29 18:40+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../bithd/encryptionaccount.rst:2
+msgid "BITHD 密码账户"
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:5
+msgid "比特护盾密码账户是比特护盾的可选功能，建议密码保管能力较强的人使用。"
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:8
+msgid "启用加密账户后的好处："
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:10
+msgid "1.拥有双重保护，发币等相关资产操作需要双重验证，PIN码 + 加密账户密码。"
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:12
+msgid "2.存储在加密账户中的资产，即使12个种子泄露，也依然无需担心，黑客在没有密码情况下是无法获取您加密账户的资产的。"
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:15
+msgid "提示："
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:17
+msgid "请牢记此密码，如果忘记此密码，加密账户下的所有资产将全部丢失，且无法通过种子密语找回。"
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:20
+msgid "操作方法："
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:22
+msgid "1.更新比特派版本至3.8.3。"
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:24
+msgid "2.打开我的菜单，BITHD 设置，启用加密账户。"
+msgstr ""
+
+#: ../../bithd/encryptionaccount.rst:42
+msgid "3、输入PIN 码之后，出现密码账户的页面。"
+msgstr ""
+

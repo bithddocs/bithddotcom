@@ -18,3 +18,4 @@ BITHD 使用文档
    sendandreceive.rst
    multiplesignature.rst
    eosmultisignature.rst
+   encryptionaccount.rst
