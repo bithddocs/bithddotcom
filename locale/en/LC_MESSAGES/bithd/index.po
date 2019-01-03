@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BITHD 3.2.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-03 17:38+0800\n"
+"POT-Creation-Date: 2019-01-03 17:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,10 @@ msgstr ""
 #: ../../bithd/index.rst:3
 msgid "BITHD 使用文档"
 msgstr "BITHD help docs"
+
+#: ../../bithd/index.rst:6
+msgid "Contents:"
+msgstr ""
 
 #~ msgid "目录:"
 #~ msgstr "List"
