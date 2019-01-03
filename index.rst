@@ -8,6 +8,6 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 目录:
+   :caption: Contents:
 
    bithd/index
