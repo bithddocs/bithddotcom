@@ -2,58 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6047d808-d2ee-4550-9fe5-ec4c15f1e8c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bithd/index.rst" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/environment.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/check.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/eosmultisignature.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/initialize.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/mulignature.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/multiplesignature.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/seedrecovery.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/sendandreceive.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bithd/update.doctree" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/environment.pickle" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/index.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/initialize/index.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/introduce/index.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/seedrecovery/index.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/update/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/check.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/encryptionaccount.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/eosmultisignature.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/initialize.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/mulignature.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/multiplesignature.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/seedrecovery.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/sendandreceive.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bithd/update.pot" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/index.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/initialize.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/introduce.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/seedrecovery.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/update.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/.buildinfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/index.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/alabaster.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/basic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/comment-bright.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/comment-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/doctools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/down-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/jquery-3.1.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/searchtools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/underscore-1.3.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/up-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/websupport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/genindex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/objects.inv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/searchindex.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/check/index.rst" afterPath="$PROJECT_DIR$/bithd/check.rst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/initialize/index.rst" afterPath="$PROJECT_DIR$/bithd/initialize.rst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/multiplesignature/index.rst" afterPath="$PROJECT_DIR$/bithd/multiplesignature.rst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/seedrecovery/index.rst" afterPath="$PROJECT_DIR$/bithd/seedrecovery.rst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sendandreceive/index.rst" afterPath="$PROJECT_DIR$/bithd/sendandreceive.rst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/update/index.rst" afterPath="$PROJECT_DIR$/bithd/update.rst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf.py" afterPath="$PROJECT_DIR$/conf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.rst" afterPath="$PROJECT_DIR$/index.rst" />
     </list>
     <ignored path="bithd-docs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,21 +46,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/index.po">
+      <file leaf-file-name="conf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="570">
+              <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="check.po" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/check.po">
+      <file leaf-file-name="update.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bithd/update.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+            <state relative-caret-position="465">
+              <caret line="31" column="3" selection-start-line="31" selection-start-column="0" selection-end-line="35" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bithd/check.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -104,71 +86,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initialize.po" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/initialize.po">
+      <file leaf-file-name="mulignature.po" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/mulignature.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf.py">
+      <file leaf-file-name="initialize.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bithd/initialize.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="141" column="13" selection-start-line="141" selection-start-column="13" selection-end-line="141" selection-end-column="13" />
+            <state relative-caret-position="360">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multiplesignature.po" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/multiplesignature.po">
+      <file leaf-file-name="eosmultisignature.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bithd/eosmultisignature.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendandreceive.po" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/sendandreceive.po">
+      <file leaf-file-name="encryptionaccount.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bithd/encryptionaccount.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bithdpwd2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/bithdpwd2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bithd/index.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update.po" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/update.po">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seedrecovery.po" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/seedrecovery.po">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="123" column="138" selection-start-line="123" selection-start-column="138" selection-end-line="123" selection-end-column="138" />
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -180,6 +149,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="rst" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -196,8 +166,6 @@
         <option value="$PROJECT_DIR$/initialize/index.rst" />
         <option value="$PROJECT_DIR$/seedrecovery/index.rst" />
         <option value="$PROJECT_DIR$/multiplesignature/index.rst" />
-        <option value="$PROJECT_DIR$/conf.py" />
-        <option value="$PROJECT_DIR$/bithd/index.rst" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/check.po" />
         <option value="$PROJECT_DIR$/bithd/initialize.rst" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/initialize.po" />
@@ -209,6 +177,11 @@
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/multiplesignature.po" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/eosmultisignature.po" />
+        <option value="$PROJECT_DIR$/bithd/encryptionaccount.rst.ipynb" />
+        <option value="$PROJECT_DIR$/bithd/encryptionaccount.rst" />
+        <option value="$PROJECT_DIR$/bithd/index.rst" />
+        <option value="$PROJECT_DIR$/conf.py" />
       </list>
     </option>
   </component>
@@ -219,9 +192,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="46" />
-    <option name="width" value="1581" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
     <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -250,7 +222,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -269,56 +240,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bithd-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bithd-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="locale" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LC_MESSAGES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bithd-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bithd-docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="locale" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LC_MESSAGES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bithd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,15 +252,15 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bithd" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/bithd" />
       <recent name="$PROJECT_DIR$/multiplesignature" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/sendandreceive" />
       <recent name="$PROJECT_DIR$/check" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bithd" />
     </key>
   </component>
   <component name="RunManager">
@@ -603,10 +527,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="46" width="1581" height="723" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="723" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19987349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1828125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -643,40 +567,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/2_5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/3_2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/3_3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/3_4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bithd/update.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/2_1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -777,14 +667,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/sendandreceive/index.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/sendandreceive/index.po" />
     <entry file="file://$PROJECT_DIR$/bithd/check.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -793,74 +676,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/multiplesignature/index.po">
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/multiplesignature/index.po" />
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/initialize/index.po" />
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/check/index.po" />
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/check.po" />
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/update.po" />
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/seedrecovery.po" />
+    <entry file="file://$PROJECT_DIR$/bithd/seedrecovery.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1380">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/initialize/index.po">
+    <entry file="file://$PROJECT_DIR$/bithd/sendandreceive.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/check/index.po">
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/sendandreceive.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/seedrecovery.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="123" column="138" selection-start-line="123" selection-start-column="138" selection-end-line="123" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/update.po">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-          <folding />
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/check.po">
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/check.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="405">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/update.po">
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/initialize.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/eosmultisignature.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="158" column="40" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/multiplesignature.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bithd/mulignature.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/seedrecovery.po">
+    <entry file="file://$PROJECT_DIR$/bithd/multiplesignature.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="75" column="42" selection-start-line="75" selection-start-column="42" selection-end-line="75" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bithd/update.rst">
+    <entry file="file://$PROJECT_DIR$/bithd/eosmultisignature.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bithd/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bithd/check.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -873,50 +789,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bithd/multiplesignature.rst">
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/mulignature.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bithd/seedrecovery.rst">
+    <entry file="file://$PROJECT_DIR$/bithd/check.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bithd/sendandreceive.rst">
+    <entry file="file://$PROJECT_DIR$/bithd/update.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="465">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="0" selection-end-line="35" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/sendandreceive.po">
+    <entry file="file://$PROJECT_DIR$/img/bithdpwd2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bithd/encryptionaccount.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bithd/index.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/seedrecovery.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="123" column="138" selection-start-line="123" selection-start-column="138" selection-end-line="123" selection-end-column="138" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="141" column="13" selection-start-line="141" selection-start-column="13" selection-end-line="141" selection-end-column="13" />
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -929,50 +847,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po">
+    <entry file="file://$PROJECT_DIR$/conf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/update.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/check.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/index.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/initialize.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/bithd/multiplesignature.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        <state relative-caret-position="570">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding />
         </state>
       </provider>
