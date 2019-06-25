@@ -11,3 +11,4 @@
    :caption: Contents:
 
    bithd/index
+   razor/index

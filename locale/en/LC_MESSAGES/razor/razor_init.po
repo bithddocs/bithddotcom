@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, BITHD
+# This file is distributed under the same license as the BITHD package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BITHD 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 16:34+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../bithd/initialize.rst:2
+msgid "如何开始使用我的刀锋"
+msgstr "How to get started with my RAZOR"
+
+#: ../../bithd/initialize.rst:6
+msgid "支持币种"
+msgstr "Supported cryptocurrencies"
+
+#: ../../bithd/initialize.rst:8
+msgid ""
+"目前刀锋支持 BTC、ETH、USDT、EOS、BCH、BSV、ETH/Token(ERC20)、EOS Token、LTC、DASH、ZEC、DOGE"
+msgstr "At the moment RAZOR supports BTC、ETH、USDT、EOS、BCH、BSV、ETH/Token(ERC20)、EOS Token、LTC、DASH、ZEC、DOGE, etc."
+
+#: ../../bithd/initialize.rst:13
+msgid "外观"
+msgstr "Exterior appearance"
+
+#: ../../bithd/initialize.rst:15
+msgid "你的刀锋包括一个OLED屏幕，2个按钮，支持USB2.0充电。"
+msgstr "Your RAZOR includes an OLED screen, two buttons and supports USB 2.0 charging."
+
+#: ../../bithd/initialize.rst:23
+msgid "​2个按钮用于用户指导："
+msgstr "Two buttons for user guidance"
+
+#: ../../bithd/initialize.rst:25
+msgid "左侧按键为“取消/电源”键，右侧按键为“确认“键"
+msgstr "The left button is for \"cancel\", and the right button is for \"confirm\""
+
+#: ../../bithd/initialize.rst:27
+msgid "电源/取消键：电源开关，长按1.5S开机或关机；短按-取消、返回等功能。任意按键按下1次，显示账户余额；按键按下2次，显示刀锋序列号信息；按键按下3次，即显示主屏幕信息。"
+msgstr "Long press 1.5 second - switch on or switch off. Short press - cancel, return.Pressing any button once the screen will display the account balance; pressing the button twice it will display the RAZOR serial number information; "
+
+#: ../../bithd/initialize.rst:31
+msgid "连接您的设备"
+msgstr "Connect your device"
+
+#: ../../bithd/initialize.rst:33
+msgid "1、保证您的  **bitpie 版本在v4.0.4 以上**。在 bitpie 我 — 账号管理页面。"
+msgstr "1.Make sure your Bitpie App version is above v4.0.4. Inside Bitpie App go to “Me” and to Account Management page."
+
+#: ../../bithd/initialize.rst:35
+msgid "2、根据设备号（刀锋任意按键按下2次，显示刀锋序列号信息），页面上选择您要连接的设备，进行配对。"
+msgstr "2.According to the device number (pressing any button on the watch twice, the screen will display the RAZOR serial number information), select the device you want to connect and pair it."
+
+#: ../../bithd/initialize.rst:43
+msgid "3、刀锋会有配对码显示，在 bitpie 钱包输入进行配对，配对成功后开始初始化设备，接下来就可以创建刀锋账户了。"
+msgstr "3.Pairing code will be displayed on the RAZOR, afterwards input this code in Bitpie App. When the pairing process is completed, the device will begin to be initialized. At that moment, you can create a RAZOR account."
+
+#: ../../bithd/initialize.rst:47
+msgid "创建我的刀锋账号"
+msgstr "Create my RAZOR account"
+
+#: ../../bithd/initialize.rst:49
+msgid "1、首次进入钱包给新钱包命名（设备标签）。"
+msgstr "1.The first time you enter the new wallet you will have to name it (device tag)."
+
+#: ../../bithd/initialize.rst:52
+msgid ""
+"2、名字输入完成后，设置钱包的 6-8位 PIN 码，**bitpie 九宫格输入对应刀锋"
+"钱包显示的数字**，需要签名相关操作就需要输入PIN码。"
+msgstr "2.After entering the name, set a 6-8 digits PIN Code. Enter the nine numbers that appears in the RAZOR in the App. You will need to enter the PIN code for any operation with the required signature."
+
+#: ../../RAZOR/initialize.rst:54
+msgid "​"
+msgstr ""
+
+#: ../../RAZOR/initialize.rst:62
+msgid "以上标注的为 PIN 码输入规则，根据手表上显示的 PIN 码位置，在 bitpie 钱包内对应位置输入。"
+msgstr "In the image above we show you the PIN code entering rule, numbers must be entered in the corresponding location that shows in the Watch."
+
+#: ../../RAZOR/initialize.rst:67
+msgid "3､ PIN 码设置好后，拿出你的种子卡，开始抄写你的种子！一定要认认真抄写您的 12 个助记词。"
+msgstr "3.After setting the PIN code, take out your seed card and start copying your seeds! Be sure to copy carefully your 12 seed phrases."
+
+#: ../../RAZOR/initialize.rst:76
+msgid "4、刀锋账号创建完成，您可以在比特派应用内自由切换您的刀锋和 bitpie 账号啦。"
+msgstr "4.Once the RAZOR account is created, you can freely switch between your RAZOR and Bitpie accounts in the Bitpie App."
+
+#~ msgid "目前比特护盾 RAZOR 支持 BTC、BCH、ETH、ETH/Token(ERC20)、LTC、DASH、ZEC、DOGE"
+#~ msgstr ""
+#~ "At the moment RAZOR supports BTC, "
+#~ "BCH, ETH, ETH/Token (ERC20), LTC, DASH,"
+#~ " ZEC, DOGE, etc."
+
+#~ msgid "目前比特护盾 RAZOR 支持 BTC、BCHABC、BCHSV、ETH、ETH/Token(ERC20)、LTC、DASH、ZEC、DOGE"
+#~ msgstr ""
+
