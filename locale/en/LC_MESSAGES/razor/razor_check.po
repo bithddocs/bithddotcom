@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, BITHD
+# This file is distributed under the same license as the BITHD package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BITHD 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 16:23+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../bithd/check.rst:2
+msgid "刀锋防伪码"
+msgstr "RAZOR Authenticity mark"
+
+#: ../../bithd/check.rst:4
+msgid "为了防止您拿到假冒伪劣商品或二手刀锋(RAZOR) ，保护您的资产安全，比特派提供防伪码检验功能。"
+msgstr "To prevent you from getting fake goods or second-hand RAZOR and protect your assets in a safe environment, Bitpie provides security verification."
+
+#: ../../bithd/check.rst:7
+msgid "请先进行检验，然后再使用刀锋 (RAZOR)。"
+msgstr "Please check your RAZOR before using it."
+
+#: ../../bithd/check.rst:10
+msgid "1、检验刀锋RAZOR，打开用户手册最后一页二维码，查询真伪。"
+msgstr "1.Verify the authenticity of Razor. Scan the QR code in the last page of User Manual to verify."
+
+#: ../../bithd/check.rst:19
+msgid "2、打开比特派 - 我 - 设置 - BITHD 防伪码 - 选择二维码扫描（用户手册最后一页的二维码进行扫描）。"
+msgstr "2.Open Bitpie App - Me - Settings - BITHD Security Code - Select Scan QR Code (Scan the QR code in the last page of User Manual)."
+

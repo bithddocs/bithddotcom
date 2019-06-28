@@ -8,4 +8,5 @@
 
 
 
+    razor_check.rst
     razor_init.rst
