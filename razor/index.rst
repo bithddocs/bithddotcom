@@ -10,4 +10,4 @@
 
     razor_check.rst
     razor_init.rst
-    razor_update.rst
+    update.rst
