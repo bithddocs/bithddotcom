@@ -78,8 +78,8 @@ msgstr "1.The first time you enter the new wallet you will have to name it (devi
 #: ../../bithd/initialize.rst:52
 msgid ""
 "2、名字输入完成后，设置钱包的 6-8位 PIN 码，**bitpie 九宫格输入对应 BITHD "
-"钱包显示的数字**，需要签名相关操作就需要输入PIN码。"
-msgstr "2.After entering the name, set a 6-8 digits PIN Code. Enter the nine numbers that appears in the BITHD in the App. You will need to enter the PIN code for any operation with the required signature."
+"钱包显示的数字**，**请记好您设置的PIN码，PIN忘记后不可找回**，需要签名相关操作就需要输入PIN码。"
+msgstr "2.After entering the name, set a 6-8 digits PIN Code. Enter the nine numbers that appears in the BITHD in the App.Please remember your PIN code, it can not be retrieve if missing. You will need to enter the PIN code for any operation with the required signature."
 
 #: ../../bithd/initialize.rst:54
 msgid "​"
