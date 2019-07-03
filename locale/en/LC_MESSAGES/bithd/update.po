@@ -22,7 +22,7 @@ msgid "如何进行固件升级，注意事项有哪些"
 msgstr "How to upgrade the firmware?"
 
 #: ../../bithd/update.rst:4
-msgid "体验新版功能进行固件升级是必不可少的一步，如果在固件升级操作不当，可能会造成数据丢失，所以**一定要在抄写好密语的情况下进行此操作**。"
+msgid "体验新版功能进行固件升级是必不可少的一步，如果在固件升级操作不当，可能会造成数据丢失，所以**一定要在抄写好助记词的情况下进行此操作**。"
 msgstr "In order to experience the functions of the new version, upgrading the firmware is an indispensable step. If the firmware upgrade process has some operating problems, data loss may occur, so please be sure to write down correctly the seed phrases before this operation."
 
 #: ../../bithd/update.rst:7
@@ -34,7 +34,7 @@ msgid "1、在手机电量高于50%时进行固件升级，避免在升级过程
 msgstr "1.Upgrade Firmware when the phone battery is higher than 50%, to avoid low battery problem during the upgrade process, causing the interruption of the upgrade."
 
 #: ../../bithd/update.rst:19
-msgid "2、固件升级可能会造成数据丢失，一定要确保您已经备份好了您的种子！"
+msgid "2、固件升级可能会造成数据丢失，一定要确保您已经备份好了您的助记词！"
 msgstr "2.Firmware upgrade could cause data loss, make sure you have backed up your seeds phrases. "
 
 #: ../../bithd/update.rst:27

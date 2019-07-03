@@ -50,6 +50,9 @@ msgstr "The left button is for \"cancel\", and the right button is for \"confirm
 msgid "电源/取消键：电源开关，长按1.5S开机或关机；短按-取消、返回等功能。任意按键按下1次，显示账户余额；按键按下2次，显示刀锋序列号信息；按键按下3次，即显示主屏幕信息。"
 msgstr "Long press 1.5 second - switch on or switch off. Short press - cancel, return.Pressing any button once the screen will display the account balance; pressing the button twice it will display the RAZOR serial number information; "
 
+msgid "请根据图示对刀锋进行充电，注意标有箭头侧向上"
+msgstr "Please charge the Razor according to the instruction in the picture, be careful the arrow side up"
+
 #: ../../bithd/initialize.rst:31
 msgid "连接您的设备"
 msgstr "Connect your device"
@@ -75,9 +78,8 @@ msgid "1、首次进入钱包给新钱包命名（设备标签）。"
 msgstr "1.The first time you enter the new wallet you will have to name it (device tag)."
 
 #: ../../bithd/initialize.rst:52
-msgid ""
-"2、名字输入完成后，设置钱包的 6-8位 PIN 码，**bitpie 九宫格输入对应刀锋"
-"钱包显示的数字**，需要签名相关操作就需要输入PIN码。"
+msgid "2、名字输入完成后，设置钱包的 6-8位 PIN 码，**bitpie 九宫格输入对应刀锋钱包显示的数字**，"
+"**请记好您设置的PIN码，PIN忘记后不可找回**，需要签名相关操作就需要输入PIN码。"
 msgstr "2.After entering the name, set a 6-8 digits PIN Code. Enter the nine numbers that appears in the RAZOR in the App. You will need to enter the PIN code for any operation with the required signature."
 
 #: ../../RAZOR/initialize.rst:54
@@ -89,7 +91,7 @@ msgid "以上标注的为 PIN 码输入规则，根据手表上显示的 PIN 码
 msgstr "In the image above we show you the PIN code entering rule, numbers must be entered in the corresponding location that shows in the Watch."
 
 #: ../../RAZOR/initialize.rst:67
-msgid "3､ PIN 码设置好后，拿出你的种子卡，开始抄写你的种子！一定要认认真抄写您的 12 个助记词。"
+msgid "3､ PIN 码设置好后，拿出你的种子卡，开始抄写你的助记词！一定要认认真抄写您的 12 个助记词。"
 msgstr "3.After setting the PIN code, take out your seed card and start copying your seeds! Be sure to copy carefully your 12 seed phrases."
 
 #: ../../RAZOR/initialize.rst:76
