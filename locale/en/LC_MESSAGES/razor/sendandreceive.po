@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, BITHD
+# This file is distributed under the same license as the BITHD package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BITHD 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 16:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../bithd/sendandreceive.rst:2
+msgid "发币收币"
+msgstr "Sending and receiving assets"
+
+#: ../../bithd/sendandreceive.rst:5
+msgid "以 BTC 收币、发币为例，切换到 BITHD 账户下的 BTC 页面。"
+msgstr "In the following steps (for sending and receiving) we are going to use BTC as an example. Switch to BTC coin management in the BITHD account."
+
+#: ../../bithd/sendandreceive.rst:7
+msgid "注：在进行收币前请确保您是否抄写好助记词。"
+msgstr "Note: Please make sure you have your seed phrases backed up before receiving assets."
+
+#: ../../bithd/sendandreceive.rst:11
+msgid "BTC 收币"
+msgstr "Receiving BTC"
+
+#: ../../bithd/sendandreceive.rst:13
+msgid "在 BITHD 钱包首页选择 BTC - 选择收币 - 进入我的 BTC 地址。"
+msgstr "In the BITHD wallet Main page select BTC – Select receive – Select my BTC address."
+
+#: ../../bithd/sendandreceive.rst:18
+msgid "BTC 发币"
+msgstr "Sending BTC"
+
+#: ../../bithd/sendandreceive.rst:20
+msgid ""
+"在 BITHD 钱包首页选择 BTC - 选择发币 - 输入正确的 BTC "
+"收币地址(本次收币3BwDCPaYBCbYWEcqBfJJax4D217z2PuKv8)、输入 BTC 金额（本次发0.0009）"
+msgstr "In the BITHD wallet Main page select BTC– Select Send – Enter the correct BTC receiving address (e.g. 3BwDCPaYBCbYWEcqBfJJax4D217z2PuKv8), enter the amount to be sent (e.g. 0.0009)."
+
+#: ../../bithd/sendandreceive.rst:28
+msgid "点击确认发送。"
+msgstr "Click on confirm sending. "
+
+#: ../../bithd/sendandreceive.rst:36
+msgid "显示具体的矿工费、发送地址、金额信息。选择确定。"
+msgstr "At this point, the screen will display the specific miner fees, the receiving address and the sending amount. Press Confirm."
+
+#: ../../bithd/sendandreceive.rst:44
+msgid "输入当前的 PIN 码信息。"
+msgstr "Enter your current PIN Code."
+
+#: ../../bithd/sendandreceive.rst:53
+msgid ""
+"第一次确认是将 0.0009 BTC 发送到 3BwDCPaYBCbYWEcqBfJJax4D217z2PuKv8 (Confirm sending "
+"0.0009 BTC to 3BwDCPaYBCbYWEcqBfJJax4D217z2PuKv8) (Confirm 确认，Cancel取消)"
+msgstr "The First confirmation sending 0.0009 BTC to 3BwDCPaYBCbYWEcqBfJJax4D217z2PuKv8. (Confirm sending 0.0009 BTC to 3BwDCPaYBCbYWEcqBfJJax4D217z2PuKv8? Confirm or cancel) "
+
+#: ../../bithd/sendandreceive.rst:63
+msgid ""
+"第二次确认是将 0.00006 BTC 发送到您的找零地址 33y93ksuvmdvNNFpom6UAn1Vke8rpV1D4n （Confirm"
+" sending 0.00006 BTC to 33y93ksuvmdvNNFpom6UAn1Vke8rpV1D4n）"
+msgstr "The Second confirmation sending 0.00006 BTC to my change address 33y93ksuvmdvNNFpom6UAn1Vke8rpV1D4n (Confirm sending 0.00006 BTC to 33y93ksuvmdvNNFpom6UAn1Vke8rpV1D4n? Confirm or Cancel)."
+
+#: ../../bithd/sendandreceive.rst:72
+msgid ""
+"第三次确认 发送这笔交易需要矿工费 0.00002 BTC。 (Really send 0.00098 BTC from your wallet?"
+" Fee included:0.00002 BTC) 确认好之后这笔交易就完成了。"
+msgstr "The Third confirmation sending, 0.00002 BTC miner fee is required to complete this transaction (Really send 0.00098 BTC from your wallet? Fee included:0.00002 BTC). After this transaction’s confirmation, the process is completed."
+
+#: ../../bithd/sendandreceive.rst:77
+msgid "备注：以上收币地址请填写正确的收币地址。"
+msgstr "Note: The above addresses are just an example, write the correct sending address."
+
+#~ msgid ""
+#~ "目前比特护盾 BITHD 支持 "
+#~ "BTC、BCH、ETH、ETH/Token(ERC20、LTC、DASH、ZEC、DOGE。下面以 BTC "
+#~ "收币、发币为例，切换到 BITHD 账户下的 BTC 页面。"
+#~ msgstr ""
+
