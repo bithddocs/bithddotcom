@@ -10,8 +10,8 @@
 1、检验比特护盾 BITHD，打开用户手册最后一页二维码，查询真伪。
 
 .. image:: ../img/bithd_check1.jpg
-    :width: 300px
-    :height: 275px
+    :width: 617px
+    :height: 371px
     :scale: 100%
     :align: center
 
