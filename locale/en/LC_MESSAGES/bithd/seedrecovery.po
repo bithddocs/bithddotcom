@@ -36,7 +36,7 @@ msgid "12 个助记词特别重要，他们决定着您是数字货币的所有�
 msgstr "The 12 seed phrases are extremely important and they determine if you are the owner of the digital assets. So do never reveal or loss them. "
 
 #: ../../bithd/seedrecovery.rst:14
-msgid "如果您PIN码忘记了"
+msgid "如果您 PIN 码忘记了"
 msgstr "If you forget your PIN Code"
 
 #: ../../bithd/seedrecovery.rst:16

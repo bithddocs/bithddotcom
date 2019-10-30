@@ -5,16 +5,16 @@
 支持币种
 ---------------
 
-目前比特护盾 BITHD 支持 BTC、BCHABC、BCHSV、EOS、ETH、ETH/Token(ERC20)、LTC、DASH、ZEC、DOGE
+目前比特护盾 BITHD 支持 BTC、ETH、USDT（omni版和erc20版）、BCH、BSV、EOS、ETH/Token(ERC20)、LTC、DASH、ZEC、DOGE
 
-
+同时已支持 BTC、ETH、USDT、EOS 多重签名功能
 
 外观
 ---------------
 
-你的 BITHD 包括一个OLED屏幕，2个按钮，支持USB2.0充电。
+你的 BITHD 包括一个OLED屏幕，2个按钮，支持无线充电。
 
-.. image:: ../img/3_1.jpg
+.. image:: ../img/3_11.jpg
     :height: 300px
     :scale: 100%
     :align: center
@@ -26,11 +26,13 @@
 
 如您所见，手表没有任何电源按键。任意按键按下1次，显示账户余额；按键按下2次，显示 BITHD 序列号信息；按键按下3次，即显示主屏幕时间信息。
 
+确认键长按3-4秒可进行关机操作。
+
 
 连接您的设备
 ---------------------
 
-1、保证您的  **bitpie 版本在v3.0.7 以上**。在 bitpie 我 — 账号管理页面。
+1、保证您的  **bitpie 版本在v4.3.5 以上**。在 bitpie 我 — 比特护盾管理。
 
 2、根据设备号（手表任意按键按下2次，显示 BITHD 序列号信息），页面上选择您要连接的设备，进行配对。
 
@@ -52,7 +54,7 @@
 2、名字输入完成后，设置钱包的 6-8位 PIN 码，**bitpie 九宫格输入对应 BITHD 钱包显示的数字**，**请记好您设置的PIN码，PIN忘记后不可找回**，需要签名相关操作就需要输入PIN码。
 
    ​
-.. image:: ../img/3_3.jpg
+.. image:: ../img/3_13.jpg
     :width: 250px
     :height: 200px
     :scale: 100%
@@ -64,7 +66,7 @@
 
 
 
-3､ PIN码设置好后，拿出你的种子卡，开始抄写你的种子！一定要认认真抄写您的 12 个种子密语。
+3､ PIN码设置好后，拿出你的种子卡，开始抄写你的助记词！一定要认认真抄写您的 12 个助记词。
 
 .. image:: ../img/3_4.jpg
     :width: 250px
@@ -73,4 +75,4 @@
     :align: center
 
 
-4、BITHD 账号创建完成，您可以在比特派应用内自由切换您的BITHD和 bitpie 账号啦。
+4、BITHD 账号创建完成，您可以在比特派应用内自由切换您的 BITHD 和 bitpie 账号啦。

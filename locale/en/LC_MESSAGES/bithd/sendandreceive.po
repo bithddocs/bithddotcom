@@ -26,7 +26,7 @@ msgid "以 BTC 收币、发币为例，切换到 BITHD 账户下的 BTC 页面�
 msgstr "In the following steps (for sending and receiving) we are going to use BTC as an example. Switch to BTC coin management in the BITHD account."
 
 #: ../../bithd/sendandreceive.rst:7
-msgid "注：在进行收币前请确保您是否抄写好种子密语。"
+msgid "注：在进行收币前请确保您是否抄写好助记词。"
 msgstr "Note: Please make sure you have your seed phrases backed up before receiving assets."
 
 #: ../../bithd/sendandreceive.rst:11
