@@ -16,7 +16,6 @@
 
 .. image:: ../img/3_11.jpg
     :height: 650px
-    :weight: 700px
     :scale: 100%
     :align: center
 
