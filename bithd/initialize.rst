@@ -15,7 +15,8 @@
 你的 BITHD 包括一个OLED屏幕，2个按钮，支持无线充电。
 
 .. image:: ../img/3_11.jpg
-    :height: 300px
+    :height: 650px
+    :weight: 700px
     :scale: 100%
     :align: center
 
