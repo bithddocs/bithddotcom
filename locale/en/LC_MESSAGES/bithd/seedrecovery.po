@@ -60,6 +60,12 @@ msgstr "If you lose your seed card, you will need to transfer immediately all yo
 msgid "BITHD 种子恢复"
 msgstr "BITHD seed phrases recovery"
 
+msgid "在验证、恢复 BITHD 助记词时， BITHD会引导您在手机端随机输入乱序的助记词与干扰词，这样可有效的保护助记词安全。"
+msgstr "For your security, whilst verifying or recovering seed phrase, you will be guided to input a set of disordered words (including seeds and noise words)."
+
+msgid "如果您有更高的安全性要求，我们建议您在手机断开网络的状态下进行操作，并且一组助记词仅在一部手机设备验证、恢复一次，避免多次验证、恢复。"
+msgstr "If you have a higher-level security need, we recommend you to verify your seed phrase under offline condition; and avoid repetitive verifying/recover(only once on a phone)."
+
 #: ../../bithd/seedrecovery.rst:38
 msgid "1、打开比特派App 或者 BITHD App 。账号管理 - 找到您的 BITHD 设备。"
 msgstr "1.Open Bitpie App or BITHD App. Account Management - Find your BITHD device."
@@ -101,6 +107,12 @@ msgstr "Note: Do not interrupt during the BITHD recovery process, please enter s
 #: ../../bithd/seedrecovery.rst:80
 msgid "BITHD 验证种子"
 msgstr "BITHD seed phrases verification"
+
+msgid "在验证、恢复 BITHD 助记词时， BITHD会引导您在手机端随机输入乱序的助记词与干扰词，这样可有效的保护助记词安全。"
+msgstr "For your security, whilst verifying or recovering seed phrase, you will be guided to input a set of disordered words (including seeds and noise words)."
+
+msgid "如果您有更高的安全性要求，我们建议您在手机断开网络的状态下进行操作，并且一组助记词仅在一部手机设备验证、恢复一次，避免多次验证、恢复。"
+msgstr "If you have a higher-level security need, we recommend you to verify your seed phrase under offline condition; and avoid repetitive verifying/recover(only once on a phone)."
 
 #: ../../bithd/seedrecovery.rst:82
 msgid "1、通过 Bitpie APP 连接比特护盾(BITHD)。"
