@@ -48,8 +48,8 @@ a.首先在硬件端找到首字母"H"的位置，在手机键盘的对应位置
 
 
 .. image:: ../img/recovery_heavy1.jpg
-    :width: 250px
-    :height: 320px
+    :width: 1060px
+    :height: 311px
     :scale: 100%
     :align: center
 
@@ -58,8 +58,8 @@ b.此时硬件端屏幕将会进入第二个字母"E"的选择页面，找到"HE
 
 
 .. image:: ../img/recovery_heavy2.jpg
-    :width: 250px
-    :height: 320px
+    :width: 1060px
+    :height: 311px
     :scale: 100%
     :align: center
 
@@ -69,8 +69,8 @@ c.此时设备屏幕会进入到第三个字母的选择界面，找到我们需
 
 
 .. image:: ../img/recovery_heavy3.jpg
-    :width: 250px
-    :height: 320px
+    :width: 1060px
+    :height: 311px
     :scale: 100%
     :align: center
 
@@ -79,8 +79,8 @@ d.此时设备屏幕已经定位到了我们想要输入的"HEAVY"单词的位�
 
 
 .. image:: ../img/recovery_heavy4.jpg
-    :width: 250px
-    :height: 320px
+    :width: 1060px
+    :height: 311px
     :scale: 100%
     :align: center
 
@@ -119,8 +119,8 @@ a.首先在硬件端找到首字母“H”的位置，在手机键盘的对应�
 
 
 .. image:: ../img/recovery_heavy1.jpg
-    :width: 250px
-    :height: 320px
+    :width: 1060px
+    :height: 311px
     :scale: 100%
     :align: center
 
@@ -128,16 +128,16 @@ a.首先在硬件端找到首字母“H”的位置，在手机键盘的对应�
 b.此时硬件端屏幕将会进入第二个字母"E"的选择页面，找到"HE"所在键位
 
 .. image:: ../img/recovery_heavy2.jpg
-    :width: 250px
-    :height: 320px
+    :width: 1060px
+    :height: 311px
     :scale: 100%
     :align: center
 
 c.此时设备屏幕会进入到第三个字母的选择界面，找到我们需要的"HEA"的位置
 
 .. image:: ../img/recovery_heavy3.jpg
-    :width: 250px
-    :height: 320px
+    :width: 1060px
+    :height: 311px
     :scale: 100%
     :align: center
 
@@ -145,11 +145,10 @@ d.此时设备屏幕已经定位到了我们想要输入的"HEAVY"单词的位�
 
 
 .. image:: ../img/recovery_heavy4.jpg
-    :width: 250px
-    :height: 320px
+    :width: 1060px
+    :height: 311px
     :scale: 100%
     :align: center
-
 
 5、输入完之后，APP 会提示您 "正在验证助记词，请根据设备上的提示进行操作.."。在比特护盾上按一下确认键即可。
 
