@@ -25,95 +25,133 @@ BITHD钱包
 
 
 
-BITHD 种子恢复
+BITHD 助记词恢复
 ------------------------
 
-在验证、恢复 BITHD 助记词时， BITHD会引导您在手机端随机输入乱序的助记词与干扰词，这样可有效的保护助记词安全。
 
-如果您有更高的安全性要求，我们建议您在手机断开网络的状态下进行操作，并且一组助记词仅在一部手机设备验证、恢复一次，避免多次验证、恢复。
+1、打开比特派 App。在我 - 比特护盾管理 - 找到您的 BITHD 设备。
 
-1、打开比特派App 或者 BITHD App 。账号管理 - 找到您的 BITHD 设备。
-
-2、在密语页面中，选择 "我有种子，直接恢复"。
+2、在初始化页面中，选择 "恢复旧钱包"。
 
 3､ 进入 "欢迎来到 BITHD "页面中为 BITHD 命名。
 
-4、开始进行恢复种子，首先设置 PIN 码。手机键盘上的点位对应 BITHD 屏上的数字，输入完之后再点确认。进入 请确认 PIN 码页面，再次输入上一次的 PIN 码。
+4、开始进行恢复助记词，首先设置 PIN 码。手机键盘上的点位对应 BITHD 屏上的数字，输入完之后再点确认。进入 请确认 PIN 码页面，再次输入上一次的 PIN 码。
 
-5、进入"请按照设备上的提示输入您的助记词"页入。输入 BITHD 设备 提示的的单词。总共需要您输入24次，12个密语和12个干扰单词。
+5、进入"参照BITHD屏幕上的键盘选择助记词"。选择需要在 BITHD 设备上恢复的助记词。
 
-提示类似于以下两条语句：
+Please enter the 1st word of your mnemonic（请输入您抄写种子的第1个助记词）；
+
+一、以单词“HEAVY”为例
 
 
+a.首先在硬件端找到首字母"H"的位置，在手机键盘的对应位置点击
 
-.. image:: ../img/bithd_seeds.jpg
+
+.. image:: ../img/recovery_heavy1.jpg
     :width: 250px
     :height: 320px
     :scale: 100%
     :align: center
 
 
-Please enter the 4th word of your mnemonic（请输入您抄写种子的第四个助记词）；
+b.此时硬件端屏幕将会进入第二个字母"E"的选择页面，找到"HE"所在键位
 
 
-.. image:: ../img/bithd_words.jpg
+.. image:: ../img/recovery_heavy2.jpg
     :width: 250px
     :height: 320px
     :scale: 100%
     :align: center
 
 
+c.此时设备屏幕会进入到第三个字母的选择界面，找到我们需要的"HEA"的位置
 
-Please enter the word viotory on your mobile phone （将viotory输入到手机输入框）；
+
+
+.. image:: ../img/recovery_heavy3.jpg
+    :width: 250px
+    :height: 320px
+    :scale: 100%
+    :align: center
+
+
+d.此时设备屏幕已经定位到了我们想要输入的"HEAVY"单词的位置，记住它的键位，点击"HEAVY"所对应的位置即可
+
+
+.. image:: ../img/recovery_heavy4.jpg
+    :width: 250px
+    :height: 320px
+    :scale: 100%
+    :align: center
+
+
+5、输入完之后，APP 会提示您 "正在恢复账号，请根据设备上的提示进行操作.."。在比特护盾上按一下确认键即可。
+
+
+.. image:: ../img/seed_recovery.jpg
+    :width: 250px
+    :height: 500px
+    :scale: 100%
+    :align: center
 
 
 备注：比特护盾在恢复过程中不要停顿，请根据提示输入。
 
 
 
-
-
-BITHD 验证种子
+BITHD 验证助记词
 ------------------------------
-
-在验证、恢复 BITHD 助记词时， BITHD会引导您在手机端随机输入乱序的助记词与干扰词，这样可有效的保护助记词安全。
-
-如果您有更高的安全性要求，我们建议您在手机断开网络的状态下进行操作，并且一组助记词仅在一部手机设备验证、恢复一次，避免多次验证、恢复。
 
 1、通过 Bitpie APP 连接比特护盾(BITHD)。
 
-
-2、我的 - BITHD 设置 - 验证种子（验证种子的过程中不要停顿，请根据比特护盾上的提示进行输入，总共需要您输入24次，12个密语和12个干扰单词）。
-
+2、我的 - BITHD 设置 - 验证助记词（验证助记词的过程中不要超时，请根据比特护盾上的提示进行输入）。
 
 3、输入 PIN 码。
 
-
 4、在种子验证界面过程中比特护盾手表中会提示以下语句
 
+Please enter the 1st word of your mnemonic（请输入您抄写种子的第1个助记词）；
 
-.. image:: ../img/bithd_seeds.jpg
+一、以单词“HEAVY”为例
+
+a.首先在硬件端找到首字母“H”的位置，在手机键盘的对应位置点击
+
+
+
+.. image:: ../img/recovery_heavy1.jpg
     :width: 250px
     :height: 320px
     :scale: 100%
     :align: center
 
-Please enter the 4th word of your mnemonic（请输入您抄写种子的第四个助记词）；
 
+b.此时硬件端屏幕将会进入第二个字母"E"的选择页面，找到"HE"所在键位
 
-.. image:: ../img/bithd_words.jpg
+.. image:: ../img/recovery_heavy2.jpg
     :width: 250px
     :height: 320px
     :scale: 100%
     :align: center
 
+c.此时设备屏幕会进入到第三个字母的选择界面，找到我们需要的"HEA"的位置
 
-Please enter the word viotory on your mobile phone （将viotory输入到手机输入框）；
+.. image:: ../img/recovery_heavy3.jpg
+    :width: 250px
+    :height: 320px
+    :scale: 100%
+    :align: center
 
+d.此时设备屏幕已经定位到了我们想要输入的"HEAVY"单词的位置，记住它的键位，点击"HEAVY"所对应的位置即可
+
+
+.. image:: ../img/recovery_heavy4.jpg
+    :width: 250px
+    :height: 320px
+    :scale: 100%
+    :align: center
 
 
 5、输入完之后，APP 会提示您 "正在验证助记词，请根据设备上的提示进行操作.."。在比特护盾上按一下确认键即可。
-
 
 .. image:: ../img/seedvalidation.jpg
     :width: 250px

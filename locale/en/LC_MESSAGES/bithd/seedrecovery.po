@@ -57,22 +57,16 @@ msgid "如果您丢失了种子卡，则需要立即将您的全部余额转移�
 msgstr "If you lose your seed card, you will need to transfer immediately all your assets to a temporary wallet. Then using BITHD, create a new set of seed phrases. After that, transfer your assets back to your account wallet."
 
 #: ../../bithd/seedrecovery.rst:36
-msgid "BITHD 种子恢复"
+msgid "BITHD 助记词恢复"
 msgstr "BITHD seed phrases recovery"
 
-msgid "在验证、恢复 BITHD 助记词时， BITHD会引导您在手机端随机输入乱序的助记词与干扰词，这样可有效的保护助记词安全。"
-msgstr "For your security, whilst verifying or recovering seed phrase, you will be guided to input a set of disordered words (including seeds and noise words)."
-
-msgid "如果您有更高的安全性要求，我们建议您在手机断开网络的状态下进行操作，并且一组助记词仅在一部手机设备验证、恢复一次，避免多次验证、恢复。"
-msgstr "If you have a higher-level security need, we recommend you to verify your seed phrase under offline condition; and avoid repetitive verifying/recover(only once on a phone)."
-
 #: ../../bithd/seedrecovery.rst:38
-msgid "1、打开比特派App 或者 BITHD App 。账号管理 - 找到您的 BITHD 设备。"
-msgstr "1.Open Bitpie App or BITHD App. Account Management - Find your BITHD device."
+msgid "1、打开比特派 App。在我 - 比特护盾管理 - 找到您的 BITHD 设备。"
+msgstr "1.Open Bitpie App. BITHD - Find your BITHD device."
 
 #: ../../bithd/seedrecovery.rst:40
-msgid "2、在密语页面中，选择 \"我有种子，直接恢复\"。"
-msgstr "2.On the password page, select “I have seeds, restore directly”."
+msgid "2、在初始化页面中，选择 \"恢复旧钱包\"。"
+msgstr "2.On the password page, select “Recover an Existing Wallet”."
 
 #: ../../bithd/seedrecovery.rst:42
 msgid "3､ 进入 \"欢迎来到 BITHD \"页面中为 BITHD 命名。"
@@ -80,39 +74,44 @@ msgstr "3.Go to the “Welcome to BITHD” page to name the BITHD."
 
 #: ../../bithd/seedrecovery.rst:44
 msgid ""
-"4、开始进行恢复种子，首先设置 PIN 码。手机键盘上的点位对应 BITHD 屏上的数字，输入完之后再点确认。进入 请确认 PIN "
+"4、开始进行恢复助记词，首先设置 PIN 码。手机键盘上的点位对应 BITHD 屏上的数字，输入完之后再点确认。进入 请确认 PIN "
 "码页面，再次输入上一次的 PIN 码。"
 msgstr "4.Begin the recovery of the seed, first set the PIN code. The numbers shown in the BITHD must be entered in the corresponding location that shows in the watch, after entering all the numbers, click OK. Go to PIN confirmation page and re-enter the PIN Code."
 
 #: ../../bithd/seedrecovery.rst:46
-msgid "5、进入\"请按照设备上的提示输入您的助记词\"页入。输入 BITHD 设备 提示的的单词。总共需要您输入24次，12个密语和12个干扰单词。"
-msgstr "5.Go to the \"Please enter your seed phrases as indicated on the device\" page. Enter the phrase that the BITHD device indicates, it has a total of 24 entries, 12 correct phrases and 12 disturbing phrases."
+msgid "5、进入\"参照BITHD屏幕上的键盘选择助记词\"。选择需要在 BITHD 设备上恢复的助记词。"
+msgstr "5.Go to the \"Choose the seed phrase according to the BITHD\" page. Choose the seed phrase that the BITHD device indicates."
 
 #: ../../bithd/seedrecovery.rst:48
-msgid "提示类似于以下两条语句："
-msgstr "The indications are similar to the following two statements:"
-
-#: ../../bithd/seedrecovery.rst:59 ../../bithd/seedrecovery.rst:100
-msgid "Please enter the 4th word of your mnemonic（请输入您抄写种子的第四个助记词）；"
-msgstr "Please enter the 4th word of your mnemonic:"
+msgid "Please enter the 1st word of your mnemonic（请输入您抄写种子的第1个助记词）；"
+msgstr "Please enter the 1st word of your mnemonic"
 
 #: ../../bithd/seedrecovery.rst:70 ../../bithd/seedrecovery.rst:110
-msgid "Please enter the word viotory on your mobile phone （将viotory输入到手机输入框）；"
-msgstr "Please enter the word viotory on your mobile phone "
+msgid "一、以单词“HEAVY”为例"
+msgstr "First, take the word \"HEAVY\" as an example"
+
+msgid "a.首先在硬件端找到首字母\"H\"的位置，在手机键盘的对应位置点击"
+msgstr "a.First find the position of the first letter \"H\" on the hardware side, and click on the corresponding position on the phone keyboard"
+
+msgid "b.此时硬件端屏幕将会进入第二个字母\"E\"的选择页面，找到\"HE\"所在键位"
+msgstr "b.At this time, the hardware screen will enter the selection page of the second letter “E”, and find the key where “HE” is"
+
+msgid "c.此时设备屏幕会进入到第三个字母的选择界面，找到我们需要的\"HEA\"的位置"
+msgstr "c.At this time, the device screen will enter the third letter selection interface, and find the location of the \"HEA\" we need."
+
+msgid "d.此时设备屏幕已经定位到了我们想要输入的\"HEAVY\"单词的位置，记住它的键位，点击\"HEAVY\"所对应的位置即可"
+msgstr "d.At this point, the screen of the device has been positioned to the word “HEAVY” we want to enter, remember its key position, and click the position corresponding to “HEAVY”."
+
+msgid "5、输入完之后，APP 会提示您 \"正在恢复账号，请根据设备上的提示进行操作..\"。在比特护盾上按一下确认键即可。"
+msgstr "5.After entering all of them, the app will indicate you \"Restoring account, operate according indications on the BITHD\". Press the confirmation button (lower button) on the BITHD."
 
 #: ../../bithd/seedrecovery.rst:73
 msgid "备注：比特护盾在恢复过程中不要停顿，请根据提示输入。"
 msgstr "Note: Do not interrupt during the BITHD recovery process, please enter seed phrases under the indications."
 
 #: ../../bithd/seedrecovery.rst:80
-msgid "BITHD 验证种子"
+msgid "BITHD 验证助记词"
 msgstr "BITHD seed phrases verification"
-
-msgid "在验证、恢复 BITHD 助记词时， BITHD会引导您在手机端随机输入乱序的助记词与干扰词，这样可有效的保护助记词安全。"
-msgstr "For your security, whilst verifying or recovering seed phrase, you will be guided to input a set of disordered words (including seeds and noise words)."
-
-msgid "如果您有更高的安全性要求，我们建议您在手机断开网络的状态下进行操作，并且一组助记词仅在一部手机设备验证、恢复一次，避免多次验证、恢复。"
-msgstr "If you have a higher-level security need, we recommend you to verify your seed phrase under offline condition; and avoid repetitive verifying/recover(only once on a phone)."
 
 #: ../../bithd/seedrecovery.rst:82
 msgid "1、通过 Bitpie APP 连接比特护盾(BITHD)。"
@@ -121,8 +120,8 @@ msgstr "1.Connect BITHD with Bitpie App."
 #: ../../bithd/seedrecovery.rst:85
 msgid ""
 "2、我的 - BITHD 设置 - "
-"验证种子（验证种子的过程中不要停顿，请根据比特护盾上的提示进行输入，总共需要您输入24次，12个密语和12个干扰单词）。"
-msgstr "2.Me – BITHD Setting – Seed verification (Do not interrupt seed verification process, please enter according to BITHD indications, there will be a total of 24 entries, 12 correct phrases and 12 disturbing phrases)."
+"验证助记词（验证助记词的过程中不要超时，请根据比特护盾上的提示进行输入）。"
+msgstr "2.Me – BITHD Setting – Verify Seed (Do not interrupt seed verification process, please enter according to BITHD indications)."
 
 #: ../../bithd/seedrecovery.rst:88
 msgid "3、输入 PIN 码。"
@@ -131,6 +130,25 @@ msgstr "3.Enter PIN Code."
 #: ../../bithd/seedrecovery.rst:91
 msgid "4、在种子验证界面过程中比特护盾手表中会提示以下语句"
 msgstr "4.The following statement will be shown in the BITHD watch during the seed verification interface."
+
+msgid "Please enter the 1st word of your mnemonic（请输入您抄写种子的第1个助记词）；"
+msgstr "Please enter the 1st word of your mnemonic"
+
+#: ../../bithd/seedrecovery.rst:70 ../../bithd/seedrecovery.rst:110
+msgid "一、以单词“HEAVY”为例"
+msgstr "First, take the word \"HEAVY\" as an example"
+
+msgid "a.首先在硬件端找到首字母“H”的位置，在手机键盘的对应位置点击"
+msgstr "a.First find the position of the first letter \"H\" on the hardware side, and click on the corresponding position on the phone keyboard"
+
+msgid "b.此时硬件端屏幕将会进入第二个字母“E”的选择页面，找到\"HE\"所在键位"
+msgstr "b.At this time, the hardware screen will enter the selection page of the second letter “E”, and find the key where “HE” is"
+
+msgid "c.此时设备屏幕会进入到第三个字母的选择界面，找到我们需要的\"HEA\"的位置"
+msgstr "c.At this time, the device screen will enter the third letter selection interface, and find the location of the \"HEA\" we need."
+
+msgid "d.此时设备屏幕已经定位到了我们想要输入的\"HEAVY\"单词的位置，记住它的键位，点击\"HEAVY\"所对应的位置即可"
+msgstr "d.At this point, the screen of the device has been positioned to the word “HEAVY” we want to enter, remember its key position, and click the position corresponding to “HEAVY”."
 
 #: ../../bithd/seedrecovery.rst:114
 msgid "5、输入完之后，APP 会提示您 \"正在验证助记词，请根据设备上的提示进行操作..\"。在比特护盾上按一下确认键即可。"
