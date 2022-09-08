@@ -78,12 +78,6 @@ BITHD 多重签名
 
 1、切换到邀请的账号下，选择查看最新记录。就会有对应的多重签名信息，进入加入多重签名页面。
 
-.. image:: ../img/m8.jpg
-    :width: 360px
-    :height: 640px
-    :scale: 100%
-    :align: center
-
 .. image:: ../img/m9.jpg
     :width: 360px
     :height: 640px

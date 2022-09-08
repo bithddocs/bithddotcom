@@ -15,5 +15,4 @@ BITHD 使用文档
    seedrecovery.rst
    sendandreceive.rst
    multiplesignature.rst
-   eosmultisignature.rst
    encryptionaccount.rst
